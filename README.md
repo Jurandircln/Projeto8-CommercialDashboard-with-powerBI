@@ -1,4 +1,3 @@
-# Projeto-8
 Trabalho com o Power BI para criar um dashboard de vendas, custos, margem de lucro e KPI.
 O dashboard deve responder as perguntas abaixo:
 1 - Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
